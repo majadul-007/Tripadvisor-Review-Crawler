@@ -38,7 +38,7 @@ df = pd.DataFrame(data)
 
 # Save the dataframe to a CSV file.
 df.to_csv('coxs-bazar-reviews.csv', index=False)
-print('Reviews saved to u3-last-coxsbazar-reviews.csv')
+print('Reviews saved to coxs-bazar-reviews.csv')
 
 
 
